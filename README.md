@@ -1,7 +1,7 @@
 ### Meu nome é Igor, seja bem vindo ao meu perfil.
 
-- 👨‍💻 Trabalho atualmente como Analista de Sistemas Junior
-- 👨‍💻 Estudando PHP
+- 👨‍💻 Trabalho atualmente como Desenvolvedor PHP Junior
+- 👨‍💻 Estudando PHP (Laravel)
 
 <div align="center">
   <a href="https://github.com/IgorHenrique88">
@@ -25,3 +25,5 @@
 <!--   ![Snake animation](https://github.com/IgorHenrique88/IgorHenrique88/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+  
